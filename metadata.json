@@ -1,0 +1,6 @@
+{
+  "name": "VitaPath - Family Life Journey & Health Tracker",
+  "description": "Interactive family life timeline, milestone roadmap, growth charts, health metrics, and organ system tracking across generations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
